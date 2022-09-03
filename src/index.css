@@ -1,0 +1,31 @@
+.add{
+    border-radius:5px 20px 5px;
+    color:whitesmoke;
+    font-family: bold;
+    background-color:tomato;
+    font-size:x-large;
+    border:none;
+    
+}
+.add:hover{ font-family: bold;
+    opacity:0.8;
+    font-size:xx-large;
+    box-shadow: 3px 4px orchid ;
+    border:none;
+}
+body{
+    background-color:lavender;
+}
+ol{
+    list-style-type:none;
+}
+.icon_boot{
+    color:red;
+    font-size: x-large;
+}
+.icon_boot:hover {
+font-size:xx-large;
+cursor:pointer;
+opacity:0.6;
+
+}
